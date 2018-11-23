@@ -1,0 +1,57 @@
+
+.inicio{
+    text-align: center;
+}
+
+.sociales a{
+    color:#ff9a00;
+    
+    }
+    .sociales a i{
+     color:black;  
+     font-size: 30px;
+    }
+    .social{
+        margin:1px;
+    }
+    
+    .navbar-brand img{
+        width: 175px;
+        height: 100px;
+    }
+    .inicio{
+        background: url(../arkix/img/photo2.jpg);
+        background-size:cover;
+        background-position: center; 
+        padding-top: 100px;
+        font-family: concert one,cursive;
+        padding-bottom: 200px;  
+        font-size:100px;
+    }
+    #Que-somos{
+        margin-top: 40px;
+
+        
+    }
+    hr{
+        width: 300px; 
+     }
+    .clientes img{
+        width: 280px;
+        border-radius: 100%;
+        margin: 10px;
+    }
+    #formulario{
+        width: 700px;
+        border: solid 2px whitesmoke;
+    }
+    .final{
+        margin-left: 150px;
+    }
+   
+    
+    
+
+ 
+    
+    
